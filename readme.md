@@ -14,3 +14,11 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Change Name/Text on the Website
+Find the following line and change the string value "Happy Patel" to whatever you like.
+
+File script.js:
+```
+Line 51: const textGeometry = new TextGeometry("Happy Patel", {
+```
