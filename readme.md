@@ -1,5 +1,7 @@
 # Three.js Journey
 
+**Keep Reloading the Site to see the Randomize Effect.**
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
